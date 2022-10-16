@@ -40,3 +40,5 @@ case $y in
         echo "6"
         ;;
 esac
+total=$(($x+$y))
+echo $total
