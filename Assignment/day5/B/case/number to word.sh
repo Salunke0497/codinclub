@@ -17,6 +17,9 @@ case $x in
         echo "five"
         ;;
         6)
+        echo "six"
+        ;;
+        7)
         echo "seven"
         ;;
         8)
