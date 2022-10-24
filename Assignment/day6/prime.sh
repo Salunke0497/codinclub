@@ -9,3 +9,4 @@ do
         exit
         fi
 done
+echo $x "is prime number"
